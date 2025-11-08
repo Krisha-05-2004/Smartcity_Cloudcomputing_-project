@@ -1,0 +1,1 @@
+{"statusCode": 200, "body": "{\"message\": \"Data stored successfully\", \"item\": {\"user_id\": \"demo_user_1\", \"timestamp\": \"2025-11-08T11:33:30.946406Z\", \"activity_type\": \"travel\", \"mode\": \"car\", \"city\": \"Bengaluru\", \"distance\": 7.5, \"co2_emission\": 1.44, \"extra\": {\"mode\": \"car\", \"distance_km\": 7.5}}}"}
