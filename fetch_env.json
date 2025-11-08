@@ -1,0 +1,7 @@
+{
+  "Variables": {
+    "DYNAMODB_TABLE": "SmartCityEmissions",
+    "OPENWEATHER_KEY": "",
+    "CITIES": "Bengaluru,Delhi,Mumbai"
+  }
+}
